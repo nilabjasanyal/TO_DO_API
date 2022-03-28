@@ -42,3 +42,5 @@ The authorize box looks like this, enter the username and password to authorize 
 
 close the box after that
 ![auth1](https://lh3.googleusercontent.com/TgsYmvpEQXmUcTr7OV-_CiZpfn-SvSIcqJDAczd0LUjwnRLiH9askP7ESbwabNKe-M97I4GF2pPcl4YecvP5UQrxAnWbm5crhyQ6q8UQwukJQUWWVp-n0cA-1uBbek2qsK6a7KxYDA=w2400)
+
+since the user is completely authorized, the CRUD operations of this API can be fully utilized.
