@@ -44,3 +44,5 @@ close the box after that
 ![auth1](https://lh3.googleusercontent.com/TgsYmvpEQXmUcTr7OV-_CiZpfn-SvSIcqJDAczd0LUjwnRLiH9askP7ESbwabNKe-M97I4GF2pPcl4YecvP5UQrxAnWbm5crhyQ6q8UQwukJQUWWVp-n0cA-1uBbek2qsK6a7KxYDA=w2400)
 
 since the user is completely authorized, the CRUD operations of this API can be fully utilized.
+Here is an illustrated diagram of the API, this is a brief doccumentation of the application of CRUD.
+![BRIEF_DOC](https://lh3.googleusercontent.com/W3MedwQjFlbqJ4btCyszsIRzs6iyGUCEJHnXy6fsISm9Jz6zp_bpN96yrCb-G2ToJxuM0cI_xvG85mlW1zyZg0LI3qYNxw8Nw1BN08vPukYgoLrjD3sylKBWYAilrMgPZLQ6wrqo1g=w2400)
